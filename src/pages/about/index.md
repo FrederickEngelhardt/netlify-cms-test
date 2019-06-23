@@ -25,8 +25,8 @@ organizers:
     - image: /img/organizer-1.jpg
       imageAlt: Tom Cruise
       name: Tom Cruise
-    - image: /img/organizer-2.jpg
-      imageAlt: Tom Hanks
+    - image: /img/fe.jpeg
+      imageAlt: frederick
       name: Tom Hanks
 seo:
   browserTitle: About | JavaScript Wakanda
